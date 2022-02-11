@@ -1,4 +1,0 @@
-function fib(num) {
-  fibList = [];
-
-}
